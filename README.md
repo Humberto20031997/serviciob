@@ -17,3 +17,11 @@ Posteriormente en el navegador se puede acceder a localhost:8010/upcoming
 Devuelve un JSON obtenido de una API externa
 
 ## Galería
+
+
+#INTEGRANTES
+Avendaño Martinez Gustavo Israel
+García Hernández Francisco de Jesus
+Gerónimo Aparicio Elvia
+Hernández Láscarez Humberto
+Martínez León Daniel
