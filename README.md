@@ -17,9 +17,9 @@ Posteriormente en el navegador se puede acceder a localhost:8010/upcoming
 Devuelve un JSON obtenido de una API externa
 
 ## Galería
+![Captura de funcionamiento](https://github.com/Humberto20031997/serviciob/blob/main/capturas/captura%20de%20funcionamiento.png)
 
-
-# INTEGRANTES
+## INTEGRANTES
 
 Avendaño Martinez Gustavo Israel
 
