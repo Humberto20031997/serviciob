@@ -14,7 +14,7 @@ request 2.88.2
 
 node index.js
 
-Posteriormente en el navegador se puede acceder a localhost:8010/upcoming
+Posteriormente en el navegador se puede acceder a localhost:8010/numbers
 
 Devuelve un JSON obtenido de una API externa
 
