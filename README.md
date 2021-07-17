@@ -5,7 +5,9 @@ Implementación de un servicio simple que depende de los datos de una API extern
 ## Requerimientos
 
 async 2.6.3
+
 express 4.14.0
+
 request 2.88.2
 
 ## Uso
