@@ -19,7 +19,7 @@ Devuelve un JSON obtenido de una API externa
 ## Galería
 
 
-#INTEGRANTES
+# INTEGRANTES
 
 Avendaño Martinez Gustavo Israel
 
